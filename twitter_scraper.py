@@ -3,6 +3,7 @@ import pandas as pd
 
 # Set up Twitter API (Get keys from developer.twitter.com)
 API_KEY = "your_api_key"
+# Can't share my API key obviously , that would be so dumb of me
 API_SECRET = "your_api_secret"
 ACCESS_TOKEN = "your_access_token"
 ACCESS_SECRET = "your_access_secret"
